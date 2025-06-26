@@ -1,2 +1,1 @@
-# bokepanaksmp
-bokepanaksmp
+# [bokepanaksmp](https://bokepanaksmp.pages.dev)
